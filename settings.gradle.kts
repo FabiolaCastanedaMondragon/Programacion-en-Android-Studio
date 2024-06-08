@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MyPrimeraApp"
+rootProject.name = "Calendario"
 include(":app")
+ 
