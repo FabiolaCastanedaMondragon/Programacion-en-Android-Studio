@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PRACTICA SPINNER"
+rootProject.name = "Olimpiada"
 include(":app")
  
