@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Olimpiada"
+rootProject.name = "MyPrimeraApp"
 include(":app")
- 
